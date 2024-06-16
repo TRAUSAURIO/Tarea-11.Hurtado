@@ -1,5 +1,5 @@
-//Fecha:
-//Autor:
+//Fecha: 16/06/2024
+//Autor: Ronald Elian Hurtado Jama
 //Tema: Funciones varias
 
 #include <iostream>
